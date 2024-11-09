@@ -17,5 +17,5 @@ export default {
     },
   },
   darkMode: "class",
-  plugins: [nextui()]
+  plugins: [nextui({prefix:"randv2"})]
 } satisfies Config;
